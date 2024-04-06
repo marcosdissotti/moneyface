@@ -14,10 +14,13 @@
     "@nuxtjs/tailwindcss": "^6.11.4",
     "nuxt": "^3.11.2",
     "nuxt-primevue": "^0.3.1",
+    "pdf-text": "^0.4.0",
     "primeicons": "^7.0.0",
     "primevue": "^3.51.0",
+    "underscore": "^1.13.6",
     "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue-router": "^4.3.0",
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
