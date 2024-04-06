@@ -1,5 +1,6 @@
 <template>
   <div>
-    <h1 class="moneysface">moneysface</h1>
+    <h1 class="font-[Inter] text-surface-950">moneysface 🤑</h1>
+    <Button label="Submit" />
   </div>
 </template>
